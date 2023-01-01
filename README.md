@@ -15,5 +15,5 @@ Companies and thier problems with the solution will be uploaded here:
 -
 ## Authors
 
-- [Bibhu Prasad Saha](https://www.github.com/bibs24)
+- [Bibhu Prasad Saha](https://www.linkedin.com/bibhu24)
 
