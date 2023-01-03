@@ -10,11 +10,15 @@ You can access this challenge at : [Link](https://docs.google.com/document/d/1jk
 
 
 
-## Acknowledgement
-Companies and thier problems with the solution will be uploaded here:
+## Company wise problems
 
-- [Microsoft](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/1-ReversePolishNotation)
+- [Microsoft](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft)
+  * [You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/1-ReversePolishNotation)
+  * [Combination Sum with a twist](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/2-CombinationSumTwist)
+  * [Bulls and Cows](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/3-BullsAndCows)
+  * [You are given an integer array nums of length n. Return maximum length of Rotation Function](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/4-RotateFunction)
+  
+  
 ## Authors
-
 - [Bibhu Prasad Saha](https://www.linkedin.com/in/bibhu24)
 
