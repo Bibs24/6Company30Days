@@ -2,23 +2,27 @@
 using namespace std;
 
 string longestPrefix(string &s){
-    string answer = "";
     int n = s.size();
     vector<int> lps(n, 0);
     int i = 1, j = 0;
 
-    for(; i< n ; i++){
-        while(s[i] != s[j] && j > 0){
-            j = lps[j-1];
-        }
+    while(i<n){
         if(s[i] == s[j]){
             lps[i] = j + 1;
+            i++;
             j++;
-        }
+        }else{
+            if(j > 0){
+                j = lps[j-1];
+            }
+            else{
+                lps[i] = 0;
+                i++;
+            }
+        } 
     }
-    for(int k = 0; k < lps[n-1]; k++){
-        answer += s[k]; 
-    }
+    int longPrefixlen = lps[n-1];
+    string answer = s.substr(0, longPrefixlen);
     return answer;
 }
 
