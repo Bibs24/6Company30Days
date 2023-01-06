@@ -17,6 +17,13 @@ You can access this challenge at : [Link](https://docs.google.com/document/d/1jk
   * [Combination Sum with a twist](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/2-CombinationSumTwist)
   * [Bulls and Cows](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/3-BullsAndCows)
   * [You are given an integer array nums of length n. Return maximum length of Rotation Function](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/4-RotateFunction)
+  * [Largest Divisible Subset](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/5-LargestDivisibleSubset)
+  * [How to find a perfect Rectangle](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/6-PerfectRectangle)
+  * [Scheduling a Course](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/7-SchedulingTheCourse)
+  * [Profitable Path in a Tree](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/8-MostPorfitablePath)
+  * [Number of Pairs satisfying Inequality](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/9-PairSatisfyInequality)
+  * [Shortest Unsorted continuous Subarray](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/10-ShortestUnsortedSubarray)
+  * [Number of ways to arrive at a Destination](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/11-NoOfWaysToReachDest)
   
   
 ## Authors
