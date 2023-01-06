@@ -29,6 +29,11 @@ You can access this challenge at : [Link](https://docs.google.com/document/d/1jk
   * [Deletions to make an array divisible](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/14-MinimumDeletions)
   * [Substrings containing all three Characters](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/15-NoOfStrings)
   
+  
+- [Goldman_Sachs](https://github.com/Bibs24/6Company30Days/tree/main/Goldman_Sachs)
+  
+  * [Max Points On A Line](https://github.com/Bibs24/6Company30Days/tree/main/Goldman_Sachs/1-MaxPointsOnALine)
+  
 ## Authors
 - [Bibhu Prasad Saha](https://www.linkedin.com/in/bibhu24)
 
