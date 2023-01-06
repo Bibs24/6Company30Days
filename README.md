@@ -24,7 +24,10 @@ You can access this challenge at : [Link](https://docs.google.com/document/d/1jk
   * [Number of Pairs satisfying Inequality](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/9-PairSatisfyInequality)
   * [Shortest Unsorted continuous Subarray](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/10-ShortestUnsortedSubarray)
   * [Number of ways to arrive at a Destination](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/11-NoOfWaysToReachDest)
-  
+  * [Longest Happy Prefix](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/12-LongestHappyPrefix)
+  * [Seat Arrangement in a SpiceJet Problem - Online OA February ‘22](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/13-AirplaneSeatAssignment)
+  * [Deletions to make an array divisible](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/14-MinimumDeletions)
+  * [Substrings containing all three Characters](https://github.com/Bibs24/6Company30Days/tree/main/Microsoft/15-NoOfStrings)
   
 ## Authors
 - [Bibhu Prasad Saha](https://www.linkedin.com/in/bibhu24)
